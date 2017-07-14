@@ -1,12 +1,12 @@
 # Projects
 Since I could not figure out how to get SW4STM32 to play nicely with git directly, my workspace will live here for now...
 
-## Projects corrently worked on
+## Projects currently worked on
 
 #### Motor Control
 implementation and testing of a motor control loop for speed & position control using freeRTOS and the builtin quadrature encoding of the STM32.
 
-## Plossible Projects
+## Possible Projects
 
 #### G-Code Interpreter
 An interpreter for G-Code (used for CNC machines) to read code from USART, possibly USB/Filesystem(SD Card/USB OTG) in the future, but only once this has been transformed into a library
