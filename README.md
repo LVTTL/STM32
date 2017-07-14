@@ -12,5 +12,5 @@ Projects and libraries for the STM32 microcontrollers, making use of CubeMX and 
 - SH1106 OLED Driver
 
 ## Projects
-to come
+to come...
 
